@@ -1,13 +1,9 @@
 <<<<<<< HEAD
-# My New Project
+# Anomaly Detection with Industrial Senbsors
 
 ## About
-This is my new project.
+To build and test an anomaly detection system for industrial sensor data that spots faults early with few false alarms
 
-## Goals
-- Build the project
-- Learn and experiment
-- Document my progress
 =======
 # Anomaly-Detection-w-industrial-sensors
 >>>>>>> 9e64aa922f80ff92204afe5a52a046700c704a76
