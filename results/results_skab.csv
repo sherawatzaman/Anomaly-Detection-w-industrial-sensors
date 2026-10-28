@@ -1,0 +1,6 @@
+model,precision,recall,f1,roc_auc,pr_auc
+Z-score,0.362,0.894,0.516,0.559,0.442
+PCA (k=3),0.36,0.88,0.511,0.61,0.59
+Mahalanobis,0.364,0.966,0.529,0.567,0.455
+Isolation Forest,0.36,0.958,0.524,0.513,0.374
+One-Class SVM,0.362,0.892,0.515,0.515,0.362
