@@ -1,0 +1,5 @@
+dataset,model,units,timely,early_false_alarm,missed,median_lead_cycles,healthy_alarm_rate,median_delay_s,false_alarm_rate
+C-MAPSS,Z-score,15,10,5.0,0,19.5,0.016,,
+C-MAPSS,Isolation Forest,15,11,4.0,0,18.0,0.014,,
+SKAB,Z-score,24,24,,0,,,0.0,0.63
+SKAB,Isolation Forest,24,24,,0,,,6.0,0.392
