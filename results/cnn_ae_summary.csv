@@ -1,0 +1,7 @@
+,,val_roc_auc,val_roc_auc,precision,precision,recall,recall,f1,f1,roc_auc,roc_auc,pr_auc,pr_auc
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+dataset,score,,,,,,,,,,,,
+cmapss,latent,0.919,0.025,0.586,0.075,0.771,0.067,0.666,0.071,0.912,0.028,0.665,0.093
+cmapss,recon,0.411,0.006,0.174,0.001,0.965,0.004,0.295,0.001,0.4,0.005,0.14,0.001
+skab,latent,0.753,0.005,0.513,0.03,0.808,0.043,0.627,0.028,0.724,0.033,0.535,0.039
+skab,recon,0.716,0.012,0.457,0.013,0.681,0.046,0.546,0.015,0.643,0.009,0.472,0.005
