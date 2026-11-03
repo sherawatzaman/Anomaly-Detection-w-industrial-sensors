@@ -1,0 +1,7 @@
+,,val_roc_auc,val_roc_auc,precision,precision,recall,recall,f1,f1,roc_auc,roc_auc,pr_auc,pr_auc
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+variant,score,,,,,,,,,,,,
+flat,latent,0.755,0.02,0.521,0.014,0.81,0.029,0.634,0.01,0.742,0.018,0.552,0.018
+flat,recon,0.672,0.01,0.431,0.005,0.623,0.031,0.51,0.013,0.613,0.009,0.451,0.005
+mean,latent,0.698,0.07,0.465,0.102,0.861,0.13,0.59,0.064,0.724,0.048,0.571,0.04
+mean,recon,0.705,0.04,0.462,0.031,0.645,0.035,0.538,0.032,0.616,0.032,0.452,0.02
