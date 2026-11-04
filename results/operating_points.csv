@@ -1,0 +1,13 @@
+dataset,model,threshold,units,timely,early_alarm,missed,median_first_alarm_RUL,normal_alarm_rate,median_delay_s
+C-MAPSS,Z-score,F1,15,10,5.0,0,24.0,0.016,
+C-MAPSS,Z-score,P99,15,12,3.0,0,20.0,0.007,
+C-MAPSS,Isolation Forest,F1,15,11,4.0,0,22.0,0.014,
+C-MAPSS,Isolation Forest,P99,15,11,4.0,0,20.0,0.01,
+C-MAPSS,Dense AE (latent),F1,15,8,7.0,0,30.0,0.038,
+C-MAPSS,Dense AE (latent),P99,15,13,2.0,0,19.0,0.011,
+SKAB,Z-score,F1,24,24,,0,,0.63,0.0
+SKAB,Z-score,P99,24,11,,13,,0.045,101.0
+SKAB,Isolation Forest,F1,24,24,,0,,0.392,6.0
+SKAB,Isolation Forest,P99,24,20,,4,,0.028,82.5
+SKAB,Dense AE (latent),F1,24,24,,0,,0.361,6.5
+SKAB,Dense AE (latent),P99,24,11,,13,,0.052,83.0
