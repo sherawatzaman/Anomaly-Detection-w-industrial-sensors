@@ -1,0 +1,15 @@
+,,roc_auc,roc_auc,pr_auc,pr_auc,f1,f1,rank
+,,mean,std,mean,std,mean,std,mean
+dataset,model,,,,,,,
+C-MAPSS,Isolation Forest,0.93,0.031,0.851,0.049,0.762,0.055,1.7
+C-MAPSS,Z-score,0.93,0.032,0.843,0.057,0.746,0.073,1.8
+C-MAPSS,Dense AE (latent),0.919,0.026,0.826,0.051,0.747,0.05,2.8
+C-MAPSS,One-Class SVM,0.87,0.047,0.79,0.072,0.737,0.073,3.9
+C-MAPSS,Mahalanobis,0.831,0.057,0.631,0.098,0.569,0.089,4.8
+C-MAPSS,PCA,0.753,0.069,0.529,0.15,0.498,0.071,6.0
+SKAB,Isolation Forest,0.725,0.026,0.607,0.039,0.592,0.037,2.1
+SKAB,Dense AE (latent),0.713,0.063,0.578,0.066,0.595,0.065,2.9
+SKAB,One-Class SVM,0.709,0.015,0.513,0.015,0.602,0.025,2.9
+SKAB,Z-score,0.708,0.021,0.553,0.02,0.564,0.03,3.0
+SKAB,PCA,0.689,0.015,0.507,0.015,0.594,0.016,4.5
+SKAB,Mahalanobis,0.683,0.015,0.495,0.013,0.593,0.02,5.6
